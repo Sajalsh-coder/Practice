@@ -1,0 +1,40 @@
+# Operator Sign 
+
+# Arithmetic Operators
+# + : Addition
+# - : Subtraction
+# * : Multiplication
+# / : Division (float division)
+# // : Floor Division
+# % : Modulus (remainder)
+# ** : Exponentiation
+
+# Comparison Operators
+# == : Equal to
+# != : Not equal to
+# > : Greater than
+# < : Less than
+# >= : Greater than or equal to
+# <= : Less than or equal to
+
+# Assignment Operators
+# = : Assign
+# += : Add and assign
+# -= : Subtract and assign
+# *= : Multiply and assign
+# /= : Divide and assign
+# //= : Floor divide and assign
+# %= : Modulus and assign
+# **= : Exponent and assign
+
+# Logical Operators
+# and : Logical AND
+# or : Logical OR
+# not : Logical NOT
+# 5. Bitwise Operators
+# & : Bitwise AND
+# | : Bitwise OR
+# ^ : Bitwise XOR
+# ~ : Bitwise NOT
+# << : Left Shift
+# >> : Right Shift
